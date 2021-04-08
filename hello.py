@@ -1,0 +1,6 @@
+print ("------------ Biodata -----------")
+print ("=================================")
+print ("Nama Lengkap	: A. Khuwarismi Ijtaba Robbuhu")
+print ("NIM		: B34180008")
+print ("Kelas		: Teknik Informatika 2018 A")
+print ("Kampus		: Universitas Nahdlatul Ulama Sidoarjo")
